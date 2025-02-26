@@ -24,7 +24,7 @@
                     "locales": {
                         "en": {
                             "title": "**Data** engineering and analytics",
-                            "text": "ETL, ELT, Kafka and analytics are my forte!"
+                            "text": "ETL, Streaming and Analytics are my forte!"
                         }
                     }
                 },
@@ -56,6 +56,19 @@
                         }
                     }
                 },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-solid fa-table-columns",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "**Website** development",
+                            "text": "Bringing your ideas into reality"
+                        }
+                    }
+                },
 
                 {
                     "icon": {
@@ -66,7 +79,7 @@
                     "locales": {
                         "en": {
                             "title": "Robotics & AI",
-                            "text": "I can build anything smart and efficient"
+                            "text": "Making your solutions smart and profitable"
                         }
                     }
                 }
@@ -91,7 +104,7 @@
                     },
                     "value": 90,
                     "dates": {
-                        "start": "03/10/2019"
+                        "start": "03/10/2024"
                     },
                     "locales": {
                         "en": {
@@ -113,6 +126,74 @@
                     "locales": {
                         "en": {
                             "title": "Python 3.x",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/apache_flink.png",
+                        "fa": "",
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Apache Flink",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/azure.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Azure",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/apache_spark.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Apache Spark",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/apache_kafka.png",
+                        "fa": "",
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2022"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Apache Kafka",
                             "info": null
                         }
                     }
@@ -142,7 +223,7 @@
                     },
                     "value": 60,
                     "dates": {
-                        "start": "04/15/2021"
+                        "start": "04/15/2023"
                     },
                     "locales": {
                         "en": {
@@ -159,11 +240,11 @@
                     },
                     "value": 80,
                     "dates": {
-                        "start": "07/10/2021"
+                        "start": "07/10/2022"
                     },
                     "locales": {
                         "en": {
-                            "title": "aws",
+                            "title": "AWS",
                             "info": null
                         }
                     }
@@ -176,7 +257,7 @@
                     },
                     "value": 95,
                     "dates": {
-                        "start": "01/01/2018"
+                        "start": "01/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -205,7 +286,7 @@
                     },
                     "value": 100,
                     "dates": {
-                        "start": "09/01/2018"
+                        "start": "09/01/2020"
                     },
                     "locales": {
                         "en": {
@@ -222,28 +303,11 @@
                     },
                     "value": 65,
                     "dates": {
-                        "start": "01/15/2019"
+                        "start": "09/01/2020"
                     },
                     "locales": {
                         "en": {
                             "title": "CSS3",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-js",
-                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "03/10/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "JavaScript ES6+",
                             "info": null
                         }
                     }
@@ -256,45 +320,11 @@
                     },
                     "value": 95,
                     "dates": {
-                        "start": "06/20/2020"
+                        "start": "06/20/2023"
                     },
                     "locales": {
                         "en": {
                             "title": "React",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-vuejs",
-                        "faColors": {"bg": "#4FC08D", "fill": "#111"}
-                    },
-                    "value": 40,
-                    "dates": {
-                        "start": "08/30/2023"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Vue.js",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-bootstrap",
-                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "02/10/2021"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Bootstrap",
                             "info": null
                         }
                     }
