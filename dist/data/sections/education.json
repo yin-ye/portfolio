@@ -47,7 +47,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "**Bachelor's** Electrical and Electronics Engineering",
+                            "title": "**Bachelor's** in Electrical and Electronics Engineering",
                             "info": "Covenant University",
                             "text": "Earned a Bachelors's degree (First Class) in Electrical and Electronics Engineering, covering essential skills like circuit analysis and design, microcontrollers and embedded systems and IoT & network protocols.",
                             "tags": []
@@ -62,7 +62,7 @@
                         "faColors": {"bg": null, "fill": null}
                     },
                     "dates": {
-                        "start": "05/09/2024",
+                        "start": "02/09/2024",
                         "end": "05/20/2024"
                     },
                     "locales": {
