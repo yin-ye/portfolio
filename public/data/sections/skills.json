@@ -24,7 +24,7 @@
                     "locales": {
                         "en": {
                             "title": "**Data** engineering and analytics",
-                            "text": "ETL, ELT, Kafka and analytics are my forte!"
+                            "text": "ETL, Streaming and Analytics are my forte!"
                         }
                     }
                 },
@@ -79,7 +79,7 @@
                     "locales": {
                         "en": {
                             "title": "Robotics & AI",
-                            "text": "I can build anything smart and efficient"
+                            "text": "Making your solutions smart and profitable"
                         }
                     }
                 }
@@ -134,7 +134,7 @@
                     "icon": {
                         "img": "images/pictures/apache_flink.png",
                         "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
                     },
                     "value": 85,
                     "dates": {
@@ -185,7 +185,7 @@
                     "icon": {
                         "img": "images/pictures/apache_kafka.png",
                         "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
                     },
                     "value": 85,
                     "dates": {
@@ -303,7 +303,7 @@
                     },
                     "value": 65,
                     "dates": {
-                        "start": "01/15/2020"
+                        "start": "09/01/2020"
                     },
                     "locales": {
                         "en": {
