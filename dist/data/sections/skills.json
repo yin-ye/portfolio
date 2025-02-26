@@ -51,7 +51,7 @@
                     },
                     "locales": {
                         "en": {
-                            "title": "Video encoding and decoding",
+                            "title": "**Video** encoding and decoding",
                             "text": "On-hands experience with video compression"
                         }
                     }
@@ -75,11 +75,11 @@
         },
 
         {
-            "id": "Data engineering & analytics",
+            "id": "data_eng_analytics",
             "component": "ArticleList",
             "config": {},
             "locales": {
-                "en": {"title": "Backend"}
+                "en": {"title": "Data engineering & analytics"}
             },
 
             "items": [
@@ -113,6 +113,74 @@
                     "locales": {
                         "en": {
                             "title": "Python 3.x",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": "images/pictures/apache_spark.png",
+                        "fa": "",
+                        "faColors": {"bg": null, "fill": null}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Apache Flink",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Azure",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Apache Spark",
+                            "info": null
+                        }
+                    }
+                },
+                {
+                    "icon": {
+                        "img": null,
+                        "fa": "fa-brands fa-python",
+                        "faColors": {"bg": "#306998", "fill": "#EEE"}
+                    },
+                    "value": 85,
+                    "dates": {
+                        "start": "06/20/2020"
+                    },
+                    "locales": {
+                        "en": {
+                            "title": "Apache Kafka",
                             "info": null
                         }
                     }
@@ -234,23 +302,6 @@
                 {
                     "icon": {
                         "img": null,
-                        "fa": "fa-brands fa-js",
-                        "faColors": {"bg": "#F7DF1E", "fill": "#111"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "03/10/2020"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "JavaScript ES6+",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
                         "fa": "fa-brands fa-react",
                         "faColors": {"bg": "#61DAFB", "fill": "#111"}
                     },
@@ -261,40 +312,6 @@
                     "locales": {
                         "en": {
                             "title": "React",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-vuejs",
-                        "faColors": {"bg": "#4FC08D", "fill": "#111"}
-                    },
-                    "value": 40,
-                    "dates": {
-                        "start": "08/30/2023"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Vue.js",
-                            "info": null
-                        }
-                    }
-                },
-                {
-                    "icon": {
-                        "img": null,
-                        "fa": "fa-brands fa-bootstrap",
-                        "faColors": {"bg": "#7952B3", "fill": "#EEE"}
-                    },
-                    "value": 90,
-                    "dates": {
-                        "start": "02/10/2021"
-                    },
-                    "locales": {
-                        "en": {
-                            "title": "Bootstrap",
                             "info": null
                         }
                     }
@@ -339,7 +356,7 @@
                     "locales": {
                         "en": {
                             "title": "Mandarin",
-                            "info": "Basic understanding of Mandarin.",
+                            "info": "Basic level in reading, writing and speaking.",
                             "tags": ["Basic"]
                         }
                     }
