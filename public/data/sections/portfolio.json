@@ -39,13 +39,13 @@
                 {
                     "categoryId": "blog",
                     "icon": {
-                        "img": "images/pictures/project-logo-3.png",
+                        "img": "images/pictures/publication.png",
                         "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-github", "href": "https://github.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://medium.com/@chimuanyachukwuma/designing-a-scalable-ticket-queueing-system-with-kafka-from-requirements-to-implementation-part-8ac8c9e7eed9"}
                     ],
 
                     "media": {
@@ -58,9 +58,9 @@
 
                     "locales": {
                         "en": {
-                            "title": "BrainPulse",
-                            "text": "A <b>RESTful API</b> backend built with <b>Node.js</b>, designed for high-performance data processing and real-time event handling.",
-                            "tags": ["API", "REST", "Backend"]
+                            "title": "Ticket Queueing System: Requirement Gathering",
+                            "text": "Extracting clear system requirements for buidling a scalable ticket-queueing application using Kafka.",
+                            "tags": ["System Requirements", "Product Design", "Data Engineering"]
                         }
                     }
                 },
@@ -68,35 +68,28 @@
                 {
                     "categoryId": "blog",
                     "icon": {
-                        "img": "images/pictures/project-logo-7.png",
+                        "img": "images/pictures/publication.png",
                         "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
                     },
 
                     "links": [
-                        {"faIcon": "fa-brands fa-apple", "href": "https://apple.com"},
-                        {"faIcon": "fa-brands fa-google-play", "href": "https://google.com"}
+                        {"faIcon": "fa-solid fa-link", "href": "https://medium.com/@chimuanyachukwuma/designing-a-scalable-ticket-queueing-system-with-kafka-from-requirements-to-implementation-part-da32715d3915"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=TfgBHC5gvTI",
+                        "youtubeVideo": null,
                         "screenshots": {
-                            "aspectRatio": "9:16",
-                            "images": [
-                                "images/pictures/project-screenshot-1.webp",
-                                "images/pictures/project-screenshot-2.webp",
-                                "images/pictures/project-screenshot-3.webp",
-                                "images/pictures/project-screenshot-4.webp",
-                                "images/pictures/project-screenshot-5.webp"
-                            ]
+                            "aspectRatio": null,
+                            "images": []
                         }
                     },
 
                     "locales": {
                         "en": {
-                            "title": "MailM8",
-                            "text": "A cross-platform email client built with <b>Flutter</b>, providing efficient communication with an intuitive UI for <b>managing emails</b>.",
-                            "tags": ["Flutter", "E-mail", "Communication"]
+                            "title": "Ticket Queueing System: System Design",
+                            "text": "Translating a ticket queueing system requirements into a concrete system design using Apache Kafka as the backbone of the event-driven architecture",
+                            "tags": ["Kafka", "Message Queues", "AWS"]
                         }
                     }
                 },
@@ -249,16 +242,17 @@
                 {
                     "categoryId": "blog",
                     "icon": {
-                        "img": "images/pictures/project-logo-4.png",
+                        "img": "images/pictures/publication.png",
                         "fa": "",
-                        "faColors": {"bg": null, "fill": null}
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
                     },
 
                     "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://medium.com/@chimuanyachukwuma/designing-a-scalable-ticket-queueing-system-with-kafka-from-requirements-to-implementation-part-a429528c21ce"}
                     ],
 
                     "media": {
-                        "youtubeVideo": "https://www.youtube.com/watch?v=bf3Lz33nHy0",
+                        "youtubeVideo": null,
                         "screenshots": {
                             "aspectRatio": null,
                             "images": []
@@ -267,9 +261,9 @@
 
                     "locales": {
                         "en": {
-                            "title": "Soccer Analytics",
-                            "text": "An AI-powered sports analytics platform built with <b>Python</b> and <b>TensorFlow</b>, offering detailed soccer <b>predictions</b> and team management tools.",
-                            "tags": ["AI", "Prediction", "Soccer"]
+                            "title": "Ticket Queueing System: Implementation",
+                            "text": "Implementation a ticket queueing system using Python, Confluent and Kafka.",
+                            "tags": ["Python", "Confluent", "Kafka"]
                         }
                     }
                 },
