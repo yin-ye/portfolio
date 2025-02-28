@@ -16,10 +16,7 @@
         "profilePictureUrl": "images/pictures/avatar.jpg",
 
         "locales": {
-            "en": {"role": "Software Engineer"},
-            "es": {"role": "Desarrollador Web"},
-            "fr": {"role": "Développeur Web"},
-            "ko": {"role": "웹 개발자"}
+            "en": {"role": "Software Engineer"}
         }
     },
 
