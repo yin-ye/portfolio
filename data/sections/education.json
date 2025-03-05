@@ -68,8 +68,8 @@
                     "locales": {
                         "en": {
                             "title": "Software Processes and Agile Practices",
-                            "info": "University of Alberta",
-                            "text": "<p>Understand the different process models for organizing software production and applying agile software development and management practices.</p>",
+                            "info": "University of Alberta (Coursera)",
+                            "text": "<p>Learned the importance the different process models for organizing software production and applying agile software development and management practices.</p>",
                             "tags": ["Software Engineering", "Design and Product", "Agile"]
                         }
                     }
@@ -88,8 +88,8 @@
                     "locales": {
                         "en": {
                             "title": "Introduction to Software Product Management",
-                            "info": "University of Alberta",
-                            "text": "<p>the iUnderstand the importance and role of software product management. The course also provided an overview of the specialization, as well as product management's goals, structure, and expectations.</p>",
+                            "info": "University of Alberta (Coursera)",
+                            "text": "Learned the importance and role of software product management. The course also provided an overview of the specialization, as well as product management's goals, structure, and expectations.</p>",
                             "tags": ["Planning", "Software Engineering", "Design and Product"]
                         }
                     }
