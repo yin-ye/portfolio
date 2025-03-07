@@ -95,6 +95,35 @@
                 },
 
                 {
+                    "categoryId": "blog",
+                    "icon": {
+                        "img": "images/pictures/publication.png",
+                        "fa": "",
+                        "faColors": {"bg": "#FFFFFF", "fill": null}
+                    },
+
+                    "links": [
+                        {"faIcon": "fa-solid fa-link", "href": "https://medium.com/@chimuanyachukwuma/system-design-real-time-clickstream-analytics-53a191e60b86"}
+                    ],
+
+                    "media": {
+                        "youtubeVideo": null,
+                        "screenshots": {
+                            "aspectRatio": null,
+                            "images": []
+                        }
+                    },
+
+                    "locales": {
+                        "en": {
+                            "title": "Real-Time Clickstream Analytics",
+                            "text": " Designing a real-time clickstream analytics system to track user interactions on an e-commerce platform.",
+                            "tags": ["Kafka", "Flink", "AWS", "CLickstream", "System design"]
+                        }
+                    }
+                },
+
+                {
                     "categoryId": "ai",
                     "icon": {
                         "img": null,
